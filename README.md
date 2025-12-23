@@ -4,7 +4,7 @@
 **Professor:** Dr. Mehmet Ali Akyol  
 **Team:** Data Wave  
 **Live Dashboard:** [http://13.49.241.124:8501](http://13.49.241.124:8501)  
-**GitHub Repository:** [(https://github.com/baraa1muslah-jpg/IBB-IoT-Project)]
+**GitHub Repository:** [(https://github.com/faraggaafar/Farag-Project.git)]
 
 
 📋 Project Overview
@@ -42,7 +42,7 @@ Click the link above to view the running dashboard on AWS EC2.
 ### Option 2: Run Locally
 
 1. **Clone the repository:**
-git clone https://github.com/baraa1muslah-jpg/IBB-IoT-Project.git cd IBB-IoT-Project
+git clone https://github.com/faraggaafar/Farag-Project.git cd IBB-IoT-Project
 
 2. **Install dependencies:**
 pip install -r requirements.txt
@@ -71,6 +71,7 @@ streamlit run dashboards/app.py
 **Team Member	Contribution**
 Al-Baraa Al-Qaisi :	Cloud Deployment (AWS), GitHub Management, Dashboard Integration & Model Development.
 Farag Gaffar :	Data Cleaning , EDA & Pre-processing.
+
 
 
 
